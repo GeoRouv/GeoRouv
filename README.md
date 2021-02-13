@@ -1,7 +1,7 @@
 ### Hello, I'm George Rouvalis!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giorgosrouv/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giorgosrouvv@gmail.com)](mailto:ishagupta2103@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giorgosrouvv@gmail.com)](mailto:giorgosrouvv@gmail.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GeoRouv)
 
 **About me**:
