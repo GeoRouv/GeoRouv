@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giorgosrouvv@gmail.com)](mailto:giorgosrouvv@gmail.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GeoRouv)
 <br><br><br>
-### 🧐 **About me**:
+### 🧐 **About me**
 - 💻 Graduate of Department of Informatics and telecommunications - University of Athens,Greece
 - 💾 MSc Student in Data Science and Information Technologies - University of Athens, Greece
 - 💼 Currently working at **[Enneas](https://enneas.gr/)**
