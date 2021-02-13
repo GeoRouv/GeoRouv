@@ -24,4 +24,8 @@
 
 <br>
 
+<a href="https://github.com/GeoRouv/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeoRouv&repo=github-readme-stats" />
+</a>
+
 ![](https://komarev.com/ghpvc/?username=GeoRouv&label=Profile+Views)
