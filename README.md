@@ -1,4 +1,4 @@
-## Hi, I'm George!
+## Hello there, I'm George!
 ---
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giorgosrouv/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giorgosrouvv@gmail.com)](mailto:giorgosrouvv@gmail.com)
