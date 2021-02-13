@@ -9,7 +9,7 @@
 - 💾 MSc Student in Data Science and Information Technologies - University of Athens, Greece
 - 💼 Working at **[Enneas](https://enneas.gr/)** as a back-end software engineer
 - 💭 Interested in  **Big Data,Machine Learning-Data Science, and Web Development**
-- 👾 Producing dark synthwave music in my free time
+- 👾 Producing dark synthwave music in free time
 
 <br>
 
