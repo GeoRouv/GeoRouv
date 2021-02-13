@@ -14,9 +14,6 @@
 
 ### ⚙️ Github Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoRouv&layout=compact&theme=tokyonight)](https://github.com/GeoRouv/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoRouv&count_private=true&theme=tokyonight&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left">
 <a href="https://github.com/GeoRouv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoRouv&layout=compact&theme=tokyonight"/>
