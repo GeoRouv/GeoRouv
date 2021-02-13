@@ -9,15 +9,13 @@
 - 💾 MSc Student in Data Science and Information Technologies - University of Athens, Greece
 - 💼 Currently working at **[Enneas](https://enneas.gr/)**
 
-&nbsp
-&nbsp
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoRouv&layout=compact&theme=tokyonight)](https://github.com/GeoRouv/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoRouv&count_private=true&theme=tokyonight&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-&nbsp
-&nbsp
+<br><br>
 
 ![](https://komarev.com/ghpvc/?username=GeoRouv&label=Profile+Views)
