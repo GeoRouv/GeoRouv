@@ -1,5 +1,5 @@
 ### Hello, I'm George Rouvalis!
-![](https://komarev.com/ghpvc/?username=GeoRouv&label=Profile+Views)
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giorgosrouv/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GeoRouv)
 
@@ -12,3 +12,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoRouv&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+
+
+![](https://komarev.com/ghpvc/?username=GeoRouv&label=Profile+Views)
