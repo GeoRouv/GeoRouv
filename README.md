@@ -4,4 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GeoRouv)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoRouv&layout=compact&theme=tokyonight)](https://github.com/GeoRouv/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoRouv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeoRouv&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+About me:
