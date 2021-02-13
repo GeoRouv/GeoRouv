@@ -22,8 +22,6 @@
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoRouv)](https://github.com/GeoRouv/github-readme-stats)
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=GeoRouv&label=Profile+Views)
