@@ -4,7 +4,7 @@
 
 **About me**:
 - Graduate of Department of Informatics and telecommunications - University of Athens,Greece
-- MSc Student in Data Science and Information Technologies - University of Athens
+- MSc Student in Data Science and Information Technologies - University of Athens, Greece
 - I'm currently working in **[Enneas](https://enneas.gr/)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeoRouv&layout=compact&theme=tokyonight)](https://github.com/GeoRouv/github-readme-stats)
