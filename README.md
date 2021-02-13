@@ -1,4 +1,4 @@
-### Hello there 👋, I'm George Rouvalis!
+### Hello, I'm George Rouvalis!
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giorgosrouv/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GeoRouv)
 
