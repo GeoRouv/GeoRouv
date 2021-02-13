@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GeoRouv)
 <br><br>
 ### 🧐 **About me**
-- 💻 Graduate of Department of Informatics and telecommunications - University of Athens,Greece
+- 💻 Graduate of Department of Informatics and Telecommunications - University of Athens,Greece
 - 💾 MSc Student in Data Science and Information Technologies - University of Athens, Greece
 - 💼 Working at **[Enneas](https://enneas.gr/)** as a back-end software engineer
 - 💭 Interested in  **Big Data,Machine Learning-Data Science, and Web Development**
