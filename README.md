@@ -7,7 +7,6 @@
 ### 🧐 **About me**
 - 💻 Graduate of Department of Informatics and Telecommunications - University of Athens
 - 💾 MSc Student in Data Science and Information Technologies - University of Athens
-- 💼 Working at **[Enneas](https://enneas.gr/)** as a back-end software engineer
 - 💭 Interested in  **Big Data,Machine Learning-Data Science, and Web Development**
 - 👾 Producing dark synthwave music in free time
 
