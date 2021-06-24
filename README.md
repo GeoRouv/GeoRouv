@@ -28,6 +28,6 @@
 
 <img
 src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GeoRouv"
-height=200
-width=400
+height=320
+width=640
 />
