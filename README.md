@@ -20,14 +20,11 @@
 </a>
 </p>
 
-<br>
-
-
-
-![](https://komarev.com/ghpvc/?username=GeoRouv&label=Profile+Views)
 
 <img
 src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GeoRouv"
 height=320
 width=530
 />
+<br>
+![](https://komarev.com/ghpvc/?username=GeoRouv&label=Profile+Views)
