@@ -27,5 +27,5 @@
 ![](https://komarev.com/ghpvc/?username=GeoRouv&label=Profile+Views)
 
 <img
-src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GeoRouv&height=160&width=320"
+src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GeoRouv"
 />
