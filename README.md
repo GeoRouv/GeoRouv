@@ -29,5 +29,5 @@
 <img
 src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=GeoRouv"
 height=320
-width=560
+width=500
 />
