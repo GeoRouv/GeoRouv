@@ -9,7 +9,6 @@
 - 💭 Interested in  **Data Science and Software Engineering**
 - 👾 Producing dark synthwave music in free time
 
-<br>
 
 ### ⚙️ Github Analytics
 
