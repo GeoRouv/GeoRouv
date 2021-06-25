@@ -6,7 +6,7 @@
 ### 🧐 **About me**
 - 💻 Graduate of Department of Informatics and Telecommunications - University of Athens
 - 💾 MSc Student in Data Science and Information Technologies - University of Athens
-- 💭 Interested in  **Big Data,Machine Learning-Data Science, and Web Development**
+- 💭 Interested in  **Data Science and Software Engineering**
 - 👾 Producing dark synthwave music in free time
 
 <br>
