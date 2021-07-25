@@ -27,4 +27,4 @@ width=530
 />
 <br><br>
 ![](https://komarev.com/ghpvc/?username=GeoRouv&label=Profile+Views)
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-15%2003%202021-blue)](https://github.com/GeoRouv)
+[![Last Commit on GitHub](https://img.shields.io/github/followers/:GeoRouv?label=Follow)]
