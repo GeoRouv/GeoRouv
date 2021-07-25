@@ -27,4 +27,4 @@ width=530
 />
 <br><br>
 ![](https://komarev.com/ghpvc/?username=GeoRouv&label=Profile+Views)
-![](https://img.shields.io/github/followers/:GeoRouv?label=Follow)
+![](https://img.shields.io/github/followers/GeoRouv?label=Follow)
