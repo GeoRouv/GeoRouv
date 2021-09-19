@@ -7,7 +7,7 @@
 - 💻 Graduate of Department of Informatics and Telecommunications - University of Athens
 - 💾 MSc Student in Data Science and Information Technologies - University of Athens
 - 💭 Interested in  **Data Science and Software Engineering**
-- 👾 Producing dark synthwave music in free time
+- 👾 Producing synthwave music in free time
 
 
 ### ⚙️ Github Analytics
