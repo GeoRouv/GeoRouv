@@ -1,4 +1,4 @@
-## Hello there, I'm George! wave
+## Hello there, I'm George! :wave:
 ---
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giorgosrouv/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giorgosrouvv@gmail.com)](mailto:giorgosrouvv@gmail.com)
