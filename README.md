@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/followers/GeoRouv?label=Follow)
 <!-- ### 🧐 **About me** -->
 - 💻 Graduate of Department of Informatics and Telecommunications - University of Athens
-- 💾 MSc Student in Data Science and Information Technologies - University of Athens
+- 💾 MSc Graduate in Data Science and Information Technologies - University of Athens
 - 💭 Interested in  **Software Engineering and Data Science**
 - 👾 Producing synthwave music in free time
 
