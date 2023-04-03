@@ -13,10 +13,10 @@
 
 <!-- ### ⚙️ Github Analytics -->
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/GeoRouv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoRouv&layout=compact&theme=tokyonight&hide=makefile&langs_count=8"/>
 </a>
-</p>
+</p> -->
 
 ![giphy (1)](https://user-images.githubusercontent.com/40864279/229629760-c7411be2-bb43-4cf7-9abb-53376d79c905.gif)
