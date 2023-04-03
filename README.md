@@ -19,6 +19,4 @@
 </a>
 </p>
 
-<p align="right">
 ![giphy (1)](https://user-images.githubusercontent.com/40864279/229629760-c7411be2-bb43-4cf7-9abb-53376d79c905.gif)
-</p>
