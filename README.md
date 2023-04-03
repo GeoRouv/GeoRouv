@@ -19,4 +19,6 @@
 </a>
 </p>
 
-![giphy](https://user-images.githubusercontent.com/40864279/229629461-4666d6c4-8e07-4351-9ae0-d835f112fad8.gif)
+<p align="right">
+![giphy (1)](https://user-images.githubusercontent.com/40864279/229629760-c7411be2-bb43-4cf7-9abb-53376d79c905.gif)
+</p>
