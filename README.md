@@ -7,27 +7,16 @@
 [![Website](https://img.shields.io/badge/-Website-blueviolet?style=flat&logo=appveyor&logoColor=white)](https://georouv.github.io/)
 ![](https://img.shields.io/github/followers/GeoRouv?label=Follow)
   
-</div>
-  
-<!-- ### 🧐 **About me** -->
-- 💻 Graduate of Department of Informatics and Telecommunications - University of Athens
-- 💾 MSc Graduate in Data Science and Information Technologies - University of Athens
-- 💭 Interested in  **Software Engineering and Data Science**
-- 👾 Producing synthwave music in free time
-
-
-<!-- ### ⚙️ Github Analytics -->
-
-<!-- <p align="left">
-<a href="https://github.com/GeoRouv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoRouv&layout=compact&theme=tokyonight&hide=makefile&langs_count=8"/>
-</a>
-</p> -->
 <br>
-<br>
-
-<div align=center>
 
 ![giphy (1)](https://user-images.githubusercontent.com/40864279/229629760-c7411be2-bb43-4cf7-9abb-53376d79c905.gif)
   
+<br>
+
+<!-- ### 🧐 **About me** -->
+ 💻 Graduate of Department of Informatics and Telecommunications - University of Athens <br>
+ 💾 MSc Graduate in Data Science and Information Technologies - University of Athens <br>
+ 💭 Interested in  **Software Engineering and Data Science** <br>
+ 👾 Producing synthwave music in free time <br>
+
 </div>
