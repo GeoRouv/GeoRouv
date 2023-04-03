@@ -18,3 +18,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoRouv&layout=compact&theme=tokyonight&hide=makefile&langs_count=8"/>
 </a>
 </p>
+
+![giphy](https://user-images.githubusercontent.com/40864279/229629461-4666d6c4-8e07-4351-9ae0-d835f112fad8.gif)
