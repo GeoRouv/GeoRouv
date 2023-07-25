@@ -16,7 +16,7 @@
 <br>
 
 <!-- ### 🧐 **About me** -->
- 🌱 Working as a Software Engineer at [Augmenta](https://www.augmenta.ag/)   
+ 🌱 Working as a Software Engineer for [Augmenta](https://www.augmenta.ag/)   
  💻 Graduate of Department of Informatics and Telecommunications - University of Athens <br>
  💾 MSc Graduate in Data Science and Information Technologies - University of Athens <br>
  💭 Interested in  **Software Engineering and Data Science** <br>
