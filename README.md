@@ -14,9 +14,7 @@
 ![giphy (1)](https://user-images.githubusercontent.com/40864279/229629760-c7411be2-bb43-4cf7-9abb-53376d79c905.gif)
   
 <br>
-</div>
 
-<div align=left>
 <!-- ### 🧐 **About me** -->
  🌱 Currently working as a Software Engineer for [Raven Europe](https://www.augmenta.ag/)   <br>
  💻 Graduate of Department of Informatics and Telecommunications ([DIT](https://www.di.uoa.gr/en)) - University of Athens <br>
