@@ -16,7 +16,7 @@
 <br>
 
 <!-- ### 🧐 **About me** -->
- 🌱 Currently working as a Software Engineer for [CNH Industrial](https://www.augmenta.ag/)   <br>
+ 🌱 Currently working as a Software Engineer for [CNH Industrial](https://www.cnh.com/)   <br>
  💻 Graduate of Department of Informatics and Telecommunications ([DIT](https://www.di.uoa.gr/en)) - University of Athens <br>
  💾 MSc Graduate in Data Science and Information Technologies ([DSIT](https://dsit.di.uoa.gr/)) - University of Athens <br>
  💭 Interested in  **Software Engineering** and **Data Science** <br>
