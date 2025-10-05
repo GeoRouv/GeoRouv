@@ -19,6 +19,4 @@
  💻 Graduate of Department of Informatics and Telecommunications ([DIT](https://www.di.uoa.gr/en)) - University of Athens <br>
  💾 MSc Graduate in Data Science and Information Technologies ([DSIT](https://dsit.di.uoa.gr/)) - University of Athens <br>
  💭 Interested in  **Software Engineering** and **Data Science** <br>
- 🎵 Producing [post-metal](https://open.spotify.com/artist/6rDDNXRhfG0L85OBCo8l5M?si=Ozv3zo_oQGOZJffAMk9WIA) and [darksynth/industrial](https://open.spotify.com/artist/7q8H31y13xRGfVy5au78ST?si=WrqjGkf8Rm-uKd97anZ2oQ) instrumental music<br>
- 🍜 Love cooking and 👾 video/board games
 </div>
