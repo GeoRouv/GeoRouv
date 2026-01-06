@@ -6,7 +6,8 @@
   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giorgosrouvv@gmail.com)](mailto:giorgosrouvv@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giorgosrouv/)
-![](https://img.shields.io/github/followers/GeoRouv?label=Follow)
+![](https://img.shields.io/github/followers/GeoRouv?label=Follow) <br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D41RS9BQ)
 <!--- [![Website](https://img.shields.io/badge/-Website-blueviolet?style=flat&logo=appveyor&logoColor=white)](https://georouv.github.io/) --->
 <br>
 
